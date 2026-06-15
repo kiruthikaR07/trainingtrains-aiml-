@@ -12,7 +12,7 @@ print(arr.mean())
 print(arr.max())
 print(arr.min())
 A = np.array([
-    [1,2],
+    [1,2]
     [3,4]
 ])
 
@@ -23,6 +23,6 @@ import numpy as np
 b = np.random.normal(0,1,5)
 
 print(b)
-c = np.arange(10)
+c = np.arange(5)
 
-print(c*5)
+print(c*5) 
